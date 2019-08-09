@@ -34,7 +34,7 @@
     "eslint-config-callstack-io": "^1.1.1",
     "flow-bin": "^0.102.0",
     "jest": "^24.0.0",
-    "react": "^16.7.0",
+    "react": "^16.9.0",
     "react-test-renderer": "^16.7.0"
   }
 }
