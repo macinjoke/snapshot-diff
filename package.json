@@ -35,6 +35,6 @@
     "flow-bin": "^0.102.0",
     "jest": "^24.0.0",
     "react": "^16.10.0",
-    "react-test-renderer": "^16.7.0"
+    "react-test-renderer": "^16.10.0"
   }
 }
